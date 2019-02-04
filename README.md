@@ -9,13 +9,11 @@ RegEx
 
 Maven
 
-Spring
+Spring MVC
 
 ConsoleIO (https://github.com/davidKolesar/Console-IO)
 
 JUnit
-
-Regex
 
 
 Architecture:
